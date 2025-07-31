@@ -8,7 +8,7 @@
 ##hexo deploy 自动把 public 文件推送到你配置的 GitHub 仓库 main 分支
 # Site
 title: iamhash的个人博客
-subtitle: '我喜欢西兰花🥦'
+subtitle: 'broccoli🥦❤'
 description: '这是描述'
 keywords: '关键词'
 author: 辣椒油
@@ -101,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: yilia
 
 # Deployment   
 ## Docs: https://hexo.io/docs/one-command-deployment 
