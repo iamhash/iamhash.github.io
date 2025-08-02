@@ -11,7 +11,7 @@ title: iamhash的个人博客
 subtitle: 'broccoli🥦❤'
 description: '这是描述'
 keywords: '关键词'
-author: 辣椒油
+author: Kepler
 language: en
 timezone: ''
 
@@ -101,7 +101,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: yilia
+theme: yilia-plus
 
 # Deployment   
 ## Docs: https://hexo.io/docs/one-command-deployment 
