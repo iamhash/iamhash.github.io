@@ -1,15 +1,16 @@
 ﻿# Header-菜单
 menu:
   主页: /
+  Hexo: /tags/Hexo/
+  常见错误: /tags/常见错误/
   随笔: /tags/随笔/
   项目思考: /tags/项目思考/
-  常见错误: /tags/常见错误/
-  Hexo: /tags/Hexo/
+  
 
 # subNav-子导航
 subNav:
   - github: "https://github.com/iamhash"
-  - qq: "http://wpa.qq.com/msgrd?v=3&uin=2967930765&site=qq&menu=yes"
+  - qq: /assets/img/qq.jpg
   # github: "#" # (支持设置多个)
   # gitee: "#" # 码云
   # jianshu: "#" #简书
@@ -150,7 +151,7 @@ music:
   id: 28793502  # 网易云分享的音乐ID(更换音乐请更改此配置项)
   autoPlay: false  # 是否开启自动播放
   # 提示文本(关闭请设置为false)
-  text: '“在每个繁星抛弃银河的夜里 我会告别 告别我自己”'
+  text: '“在每个繁星抛弃银河的夜里 我会告别  告别我自己”'
 
 # 页面点击小红心
 clickLove:
