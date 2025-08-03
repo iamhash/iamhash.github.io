@@ -12,9 +12,9 @@ tags: [Hexo,博客搭建,常见错误]
 - 使用Github Actions自动化部署
 - 使用 hexo d 命令（hexo-deployer-git）
 
-【public 目录是 **Hexo 生成的静态文件输出目录**，里面存放了所有网站最终要发布到网上的 HTML、CSS、JS、图片等静态资源。】
-
 <!-- more -->
+
+【public 目录是 **Hexo 生成的静态文件输出目录**，里面存放了所有网站最终要发布到网上的 HTML、CSS、JS、图片等静态资源。】
 
 #### 使用Github Actions自动化部署（优点：仓库结构清晰、自动化强）
 
