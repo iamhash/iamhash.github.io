@@ -1,11 +1,11 @@
 ﻿# Header-菜单
 menu:
   主页: /
-  项目思考: /tags/项目思考/
-  算法: /tags/算法/
+  项目实录: /tags/项目实录/
+  技术碎片: /tags/技术碎片/
+  算法笔记: /tags/算法笔记/
   随笔: /tags/随笔/
-  Hexo: /tags/Hexo/
-  常见错误: /tags/常见错误/
+  踩坑记录: /tags/踩坑记录/
   
   
   
