@@ -110,3 +110,7 @@ deploy:
   repo: https://github.com/iamhash/iamhash.github.io.git
   branch: main   # 如果你的 GitHub Pages 用 main 分支，写 main；用 gh-pages 就写 gh-pages
 
+# 解决 hexo-asset-image 图片不显示问题
+marked:
+  prependRoot: true
+  postAsset: true
